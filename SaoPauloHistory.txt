@@ -19,8 +19,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-14T16:55:00-03:00",
@@ -42,8 +41,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-14T15:55:00-03:00",
@@ -88,8 +86,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-14T13:55:00-03:00",
@@ -111,9 +108,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
-    },
+      
     {
         "LocalObservationDateTime": "2020-10-14T12:55:00-03:00",
         "EpochTime": 1602690900,
@@ -134,8 +129,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-14T11:55:00-03:00",
@@ -157,8 +151,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+        
     },
     {
         "LocalObservationDateTime": "2020-10-14T10:55:00-03:00",
@@ -180,8 +173,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-14T09:55:00-03:00",
@@ -203,8 +195,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+        
     },
     {
         "LocalObservationDateTime": "2020-10-14T08:55:00-03:00",
@@ -226,8 +217,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+      
     },
     {
         "LocalObservationDateTime": "2020-10-14T07:55:00-03:00",
@@ -249,8 +239,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+      
     },
     {
         "LocalObservationDateTime": "2020-10-14T06:55:00-03:00",
@@ -272,8 +261,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+        
     },
     {
         "LocalObservationDateTime": "2020-10-14T05:55:00-03:00",
@@ -295,8 +283,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-14T04:55:00-03:00",
@@ -318,8 +305,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-14T03:55:00-03:00",
@@ -341,8 +327,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+     
     },
     {
         "LocalObservationDateTime": "2020-10-14T02:55:00-03:00",
@@ -364,8 +349,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+      
     },
     {
         "LocalObservationDateTime": "2020-10-14T01:55:00-03:00",
@@ -387,8 +371,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+      
     },
     {
         "LocalObservationDateTime": "2020-10-14T00:55:00-03:00",
@@ -410,8 +393,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+      
     },
     {
         "LocalObservationDateTime": "2020-10-13T23:55:00-03:00",
@@ -433,8 +415,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+     
     },
     {
         "LocalObservationDateTime": "2020-10-13T22:55:00-03:00",
@@ -456,8 +437,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+      
     },
     {
         "LocalObservationDateTime": "2020-10-13T21:55:00-03:00",
@@ -479,8 +459,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+     
     },
     {
         "LocalObservationDateTime": "2020-10-13T20:55:00-03:00",
@@ -502,8 +481,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+      
     },
     {
         "LocalObservationDateTime": "2020-10-13T19:55:00-03:00",
@@ -525,8 +503,7 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+       
     },
     {
         "LocalObservationDateTime": "2020-10-13T18:55:00-03:00",
@@ -548,7 +525,6 @@
                 "UnitType": 18
             }
         },
-        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
-        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+     
     }
 ]
